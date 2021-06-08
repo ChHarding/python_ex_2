@@ -3,6 +3,7 @@ Python refresher exercises - part 2
 
 - To work on these please __fork__ this repo (upper right corner) and clone __your__ version
 - It contains 2 tasks (exercises) in separate .py files each worth 1 pt
+- For task 1, please do NOT simply use a regular expression! It might well tell you if a string is valid or not but it will not tell you specifically what is wrong, which is the main point of this task.
 - Although task 2 depends on task 1, you can use my solution if you cannot solve task 1
 - Again, do as much a you can and make sure to leave comments 
 - Perform regular commits and don't forget to __push them to your remote github repo!__
